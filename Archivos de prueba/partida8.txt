@@ -1,0 +1,7 @@
+Alejandro,B
+Federico,N
+N
+D3
+C3
+G0
+E3
